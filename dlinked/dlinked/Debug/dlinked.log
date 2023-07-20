@@ -1,0 +1,7 @@
+﻿  dlinked.cpp
+D:\VS C++\dlinked\dlinked\dlinked.cpp(53,19): error C2143: syntax error: missing ';' before '&'
+D:\VS C++\dlinked\dlinked\dlinked.cpp(63): message : see reference to class template instantiation 'DLL<T>' being compiled
+D:\VS C++\dlinked\dlinked\dlinked.cpp(53,1): error C2433: 'ostream': 'friend' not permitted on data declarations
+D:\VS C++\dlinked\dlinked\dlinked.cpp(53,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\VS C++\dlinked\dlinked\dlinked.cpp(54,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\VS C++\dlinked\dlinked\dlinked.cpp(46,17): error C2760: syntax error: unexpected token 'return', expected ';'

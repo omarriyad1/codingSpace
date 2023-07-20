@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653717131 source:e:\c++\heap\main.cpp
+	<iostream>
+	<limits.h>
+
